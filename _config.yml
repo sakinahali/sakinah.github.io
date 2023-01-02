@@ -16,11 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "sakinah.pdf", title: "CV"}
+  - {file: "about.md", title: "About"}
   - {file: "projects.md", title: "Projects"}
+  - {file: "sakinah.pdf", title: "Resume"}
   - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+   ---
+   layout: 
+   title: Let's be social. Follow Me
+   ---
   - {title: Mail, icon: envelope, url: "mailto:sakinahemoshiokeali@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sakinahali"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Nilfahali"}
