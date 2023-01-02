@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  # Let's be Social. Follow Me
+    Let's be social, Follow Me
   - {title: Mail, icon: envelope, url: "mailto:sakinahemoshiokeali@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sakinahali"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Nilfahali"}
