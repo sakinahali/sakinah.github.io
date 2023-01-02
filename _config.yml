@@ -19,7 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  --- 
  layout:
  tittle: Let's be social. Follow Me
- - {file: "about.md", title: "About"}
+ ---
+  - {file: "about.md", title: "About"}
   - {file: "projects.md", title: "Projects"}
   - {file: "sakinah.pdf", title: "Resume"}
   - {file: "blog.md", title: "Blog"}
