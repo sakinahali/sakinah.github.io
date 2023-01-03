@@ -1,4 +1,13 @@
-# [Project 1: Medical Appointment Exploratory Analysis](https://github.com/sakinahali/Medical_appointment_Dataset)
+---
+title:  "Medical Appointment Exploratory Analysis"
+mathjax: true
+layout: projects
+categories: media
+---
+
+
+
+# [Medical Appointment Exploratory Analysis](https://github.com/sakinahali/Medical_appointment_Dataset)
 
 ![medical picture](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
 [Istockphoto](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
