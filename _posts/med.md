@@ -1,7 +1,7 @@
 ---
 title:  "Medical Appointment Exploratory Analysis"
 mathjax: true
-layout: projects
+layout: post
 categories: media
 ---
 
