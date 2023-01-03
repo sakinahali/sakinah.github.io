@@ -1,7 +1,7 @@
 ---
 title:  "Bicycle-sharing Exploratory Analysis"
 mathjax: true
-layout: projects
+layout: post
 categories: media
 ---
 
