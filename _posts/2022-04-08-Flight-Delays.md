@@ -30,9 +30,9 @@ lowest number of flights at 2.
 The scatterplot shows the relationship between the sum of diverted and cancelled
 flights in various airlines. The cancelled was plotted on the y-axis and diverted on the
 x-axis while the airline was used to form a relationship between the two variables. It
-appears that the two variables do have a linear relationship with outliers but have a
-strong positive correlation. From the scatterplot, HA(Hawaiian Airlines inc.) has both
-low cancelled and diverted flights. WN(Southwest Airlines Co) has the highest
+appeared that the two variables do have a linear relationship with outliers but have a
+strong positive correlation. From the scatterplot, HA(Hawaiian Airlines inc.) had both
+low cancelled and diverted flights. WN(Southwest Airlines Co) had the highest
 cancelled and diverted flights.
 
 # Visualization 3- Departure delay of airlines over state and Airline
@@ -44,7 +44,7 @@ easy visibility.
 For the first visualization, a map was used to show the departure delay, state and
 airline. Airline AA and the state of Texas had the highest departure delay.
 For the second visualization, a bar chart was used to check for the highest departure
-delay over the state. The state of CA has the highest departure delay.
+delay over the state. The state of CA had the highest departure delay.
 
 More detailed of each visualizations:
 * [Visualization 1](https://public.tableau.com/app/profile/sakinah4830/viz/Highestarrivaltimeineachstate/Sheet3#1)
