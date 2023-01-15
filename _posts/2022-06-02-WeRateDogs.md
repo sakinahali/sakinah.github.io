@@ -1,3 +1,11 @@
+---
+title:  "WeRateDog Twitter Account Analysis"
+mathjax: true
+layout: post
+categories: media
+---
+
+
 ![dog_image](https://user-images.githubusercontent.com/96656540/212531909-0b61fc95-2ee7-49ce-9299-9e1e82735066.jpg)
 
 # Project Description
