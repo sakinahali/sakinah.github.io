@@ -16,18 +16,18 @@ Thereafter, the cleaned files were combined into a file called twitter_master_ar
 The combined data was then analyzed and visualized to draw insights into the data. The results of this analysis are as follows;
 
 # Highest Liked Dog
-The Dog stage consists of four stages: doggo, floofer, pupper, puppo. 
-A visualization of the dog stage and favorite count shows that pupper dog stage has the highest favorite count.
+The Dog stage was consisted of four stages: doggo, floofer, pupper, puppo. 
+A visualization of the dog stage and favorite count showed that pupper dog stage had the highest favorite count.
 
 ![Highest_liked_dog](https://user-images.githubusercontent.com/96656540/212532309-b589e3e8-6b13-4f88-b374-31705a2b7185.png)
 
 # Highest Occurrence of Dog Name
-Here, 850 names of dogs were visualized taking the frequency of the highest occurrence. The visualization shows Copper has the highest occurrence.
+Here, 850 names of dogs were visualized taking the frequency of the highest occurrence. The visualization showed Copper had the highest occurrence.
 
 ![Highest_occurence_of_Dog_Names](https://user-images.githubusercontent.com/96656540/212532436-2bc7845e-2740-4de4-993a-867c18e6f74c.png)
 
 # Breed Predictions
-The predictions of dog breeds was generated through a neural network that can classify dog breeds. The dog breeds were categorized into p1, p2, and p3. 
+The prediction of dog breeds was generated through a neural network that can classify dog breeds. The dog breeds were categorized into p1, p2, and p3. 
 The most frequent dog breed prediction for p1 was Golden Retriever while the most frequent for p2 was Labrador Retriever and Cardigan and for p3 was Labrador Retriever.
 
 # Golden Retriever and Labrador Retriever
