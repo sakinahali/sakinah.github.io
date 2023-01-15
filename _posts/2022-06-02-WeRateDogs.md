@@ -16,7 +16,7 @@ Thereafter, the cleaned files were combined into a file called twitter_master_ar
 The combined data was then analyzed and visualized to draw insights into the data. The results of this analysis are as follows;
 
 # Highest Liked Dog
-The Dog stage was consisted of four stages: doggo, floofer, pupper, puppo. 
+The Dog stage consisted of four stages: doggo, floofer, pupper, puppo. 
 A visualization of the dog stage and favorite count showed that pupper dog stage had the highest favorite count.
 
 ![Highest_liked_dog](https://user-images.githubusercontent.com/96656540/212532309-b589e3e8-6b13-4f88-b374-31705a2b7185.png)
