@@ -1,5 +1,5 @@
 ---
-title:  "WeRateDog Twitter Account Analysis"
+title:  "WeRateDogs Twitter Account Analysis"
 mathjax: true
 layout: post
 categories: media
