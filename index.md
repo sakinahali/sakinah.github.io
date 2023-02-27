@@ -13,6 +13,6 @@ In addition to chemistry and data science, she is also involved in various volun
 * Chemistry
 * Artificial Intelligence
 * Data Science
-* Deeplearning
+* Deep Learning
 * NLP
 * Sustainability
