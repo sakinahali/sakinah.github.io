@@ -3,7 +3,7 @@ layout: page
 title: Biography
 ---
 
-<img src="https://user-images.githubusercontent.com/96656540/228382829-bfb0fc2a-d9da-415f-8cea-ee45311aaf90.jpeg" width="150" height="150" align="left" />
+<img src="https://user-images.githubusercontent.com/96656540/228382829-bfb0fc2a-d9da-415f-8cea-ee45311aaf90.jpeg" width="200" height="200" align="left" />
 
 <p>Hi, I'm Ali Sakinah E, a data analyst who is passionate about data. With 1+ years of experience in data analysis, I have developed a strong skillset in analyzing complex data sets, creating data visualizations, and developing actionable insights that help organizations make data-driven decisions.
 
