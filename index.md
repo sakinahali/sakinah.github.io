@@ -3,16 +3,7 @@ layout: page
 title: Biography
 ---
 
-<p>Hi, I'm Ali Sakinah E, a data analyst who is passionate about data. With 1+ years of experience in data analysis, I have developed a strong skillset in analyzing complex data sets, creating data visualizations, and developing actionable insights that help organizations make data-driven decisions.
-
-In addition, I have also taken on leadership roles, mentoring and coaching others to develop their data analysis skills and become more effective leaders. .
-
-As a data analyst, I have also had the privilege of working with several projects, from healthcare and finance.
-Through these experiences, I have seen firsthand the power of data in transforming organizations and improving outcomes for communities.
-
-In my free time, you can often find me volunteering at local community events, participating in community_based research initiatives.</p> 
-
-
+<p>Sakinah Emoshioke Ali is an Industrial Chemist who is data-intensive. She is passionate about applying knowledge of chemistry to the field of data science and machine learning. She is proficient in various programming languages such as Python, SQL, and Tableau. Her primary focus is on material chemistry, environmental chemistry, and sustainability. She has completed independent research projects in data science. She finds it fascinating how data is utilized to create stories and to make better data-driven decisions through insightful information applied to chemistry. In addition to chemistry and data science, she is also involved in various volunteer works, raising awareness of climate change and drug misuse..</p> 
 
 ======
 
