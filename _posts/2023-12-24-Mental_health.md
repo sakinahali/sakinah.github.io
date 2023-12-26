@@ -1,4 +1,9 @@
-## **Analysis of Global Trends in Mental Health Disorder Using Machine Learning**
+---
+title:  "Analysis of Global Trends in Mental Health Disorder Using Linear Regression"
+mathjax: true
+layout: post
+categories: media
+---
 ### **Introduction**
 The prevalence of mental health disorders varies across countries. This variability is particularly concerning as it reflects a multifaceted interplay of cultural, societal, economic, and healthcare factors. Understanding and addressing these differences is crucial for developing effective strategies to support mental health on a global scale. The main aim of this project is to explore the prevalence of mental health disorders in countries using Data Visualization techniques and Machine Learning algorithms. In the context of this project, an essential question to answer is "In which countries are mental health issues most and least prevalent?".
 
