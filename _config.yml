@@ -23,6 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/sakinahali"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Nilfahali"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sakinahemoshiokeali/"}
+  - {title: Hashnode, icon: Hashnode, url: "https://sakinahai.hashnode.dev/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
