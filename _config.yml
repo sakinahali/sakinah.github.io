@@ -22,7 +22,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope,  url: "mailto:sakinahemoshiokeali@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sakinahali"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sakinahemoshiokeali/"}
-  - {title: Hashnode, icon: Hashnode, url: "https://sakinahai.hashnode.dev/"}
+  - {title: Hashnode, icon: hashnode, url: "https://sakinahai.hashnode.dev/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
