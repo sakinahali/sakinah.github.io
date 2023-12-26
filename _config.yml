@@ -21,7 +21,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope,  url: "mailto:sakinahemoshiokeali@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sakinahali"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/Nilfahali"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/sakinahemoshiokeali/"}
   - {title: Hashnode, icon: Hashnode, url: "https://sakinahai.hashnode.dev/"}
 
